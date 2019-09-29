@@ -1,0 +1,105 @@
+div.main__welcome {
+    background: #f6f3ee;
+    height: auto;
+}
+div.left-container {
+    width: 50%;
+}
+div.right-container {
+    width: 50%;
+}
+div.container-row {
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+h1.bold {
+    text-transform: uppercase;
+    padding: 10px;
+    margin-top: 50px;
+    font-size: 370%;
+    letter-spacing: 5px;
+}
+h3.specific {
+    margin-top: -40px;
+    color: #00001a;
+    padding-left: 10px;
+    padding-right: 40px;
+}
+.myButton {
+	background-color: #ec453b;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:3px solid #ec453b;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:21px;
+	padding:18px 57px;
+    text-decoration:none;
+    margin-top: 20px;
+}
+.myButton:hover {
+	background-color: red
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+iframe {
+    width: 595px;
+    height: 350px;
+    float: right;
+    margin-top: 60px;
+}
+div.container-row {
+    padding-bottom: 80px;
+}
+.main__second{
+    background: #fff;
+}
+h1.bold__second {
+    text-transform: uppercase;
+    padding: 10px;
+    margin-top: 50px;
+    font-size: 300%;
+    letter-spacing: 1px;
+    color: #5c5c5c;
+}
+.myButtonWhite {
+	background-color: #fff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:3px solid #ec453b;
+	display:inline-block;
+	cursor:pointer;
+	color:#ec453b;
+	font-family:Arial;
+	font-size:21px;
+	padding:18px 57px;
+    text-decoration:none;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.myButtonWhite:hover {
+	background-color: #EADBDB;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.card {
+    padding-top: 40px;
+    width: 40%;
+    margin: auto;
+}
+.specificBlack {
+    color: #00001a;
+    font-size: 150%;
+}
+.material-icons{
+    color: #ec453b;
+}

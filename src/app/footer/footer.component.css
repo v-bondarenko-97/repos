@@ -1,0 +1,61 @@
+.footer {
+    width: 100%;
+    background: black;
+    height: 120px;
+    position: absolute;
+    left:0;
+    right:0;
+    color: grey;
+}
+div.copyright {
+    width: 50%;
+    margin: auto;
+}
+div.container-row {
+    width: 100%;
+    margin: auto;
+    border: 1px solid black;
+    display: flex;
+}
+h5#copyright {
+    margin-left: -50px;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa-facebook {
+    background:  black8;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: black;
+    color: white;
+  }
+  
+  .fa-google {
+    background: black;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: black;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: black;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: black;
+    color: white;
+  }
+  
